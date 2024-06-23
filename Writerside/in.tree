@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="Instance Name"
+                 start-page="spistresci1.md">
+
+    <toc-element topic="spistresci1.md"/>
+    <toc-element topic="9_opis_przyszlej_ewolucji_systemu1.md"/>
+    <toc-element topic="8_wymagania_niefunkcjonalne1.md"/>
+    <toc-element topic="7_opis_struktury_systemu1.md"/>
+    <toc-element topic="6_wymagania_funkcjonalne1.md"/>
+    <toc-element topic="5_wymagania_uzytkownika1.md"/>
+    <toc-element topic="4_uzytkownicy_systemu1.md"/>
+    <toc-element topic="3_zakres_odpowiedzialnosci_systemu1.md"/>
+    <toc-element topic="2_cel1.md"/>
+    <toc-element topic="1_dziedzina_problemowa1.md"/>
+    <toc-element topic="10_slownik1.md"/>
+</instance-profile>
